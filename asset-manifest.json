@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/consultoria-spa/static/css/main.5795539f.chunk.css",
+    "main.js": "/consultoria-spa/static/js/main.18210b28.chunk.js",
+    "main.js.map": "/consultoria-spa/static/js/main.18210b28.chunk.js.map",
+    "runtime~main.js": "/consultoria-spa/static/js/runtime~main.8bbb5321.js",
+    "runtime~main.js.map": "/consultoria-spa/static/js/runtime~main.8bbb5321.js.map",
+    "static/js/2.07e25cba.chunk.js": "/consultoria-spa/static/js/2.07e25cba.chunk.js",
+    "static/js/2.07e25cba.chunk.js.map": "/consultoria-spa/static/js/2.07e25cba.chunk.js.map",
+    "index.html": "/consultoria-spa/index.html",
+    "precache-manifest.a8f68781bdef97ef3bd8658194880a4a.js": "/consultoria-spa/precache-manifest.a8f68781bdef97ef3bd8658194880a4a.js",
+    "service-worker.js": "/consultoria-spa/service-worker.js",
+    "static/css/main.5795539f.chunk.css.map": "/consultoria-spa/static/css/main.5795539f.chunk.css.map",
+    "static/media/Logo.jpeg": "/consultoria-spa/static/media/Logo.1879da1f.jpeg",
+    "static/media/office.jpeg": "/consultoria-spa/static/media/office.6ed5f9cc.jpeg",
+    "static/media/slide2.jpg": "/consultoria-spa/static/media/slide2.41ecf66e.jpg",
+    "static/media/slide3.jpg": "/consultoria-spa/static/media/slide3.5b11c969.jpg",
+    "static/media/slide4.jpg": "/consultoria-spa/static/media/slide4.2192d586.jpg"
+  }
+}
